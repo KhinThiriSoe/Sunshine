@@ -17,7 +17,7 @@
     </android.support.design.widget.AppBarLayout>
 
     <fragment
-        android:id="@+id/fragment"
+        android:id="@+id/container"
         class="com.example.khinthirisoe.sunshine.MainFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
